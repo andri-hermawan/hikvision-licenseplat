@@ -1,0 +1,7 @@
+/assets/
+/install_untuk_server_cctv/
+/server/node_modules/
+/application/config/config.php
+/application/config/database.php
+DatabaseWb.mdb
+db_serverside.sql
